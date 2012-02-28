@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
-"POT-Creation-Date: 2010-12-21T11:01:27\n"
-"PO-Revision-Date: 2010-12-21T11:01:27\n"
+"POT-Creation-Date: 2012-02-27T09:17:57\n"
+"PO-Revision-Date: 2012-02-27T09:17:57\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
@@ -30,5 +30,35 @@ msgstr ""
 #. Tag: member
 #, no-c-format
 msgid "Import from Pages.app"
+msgstr ""
+
+#. Tag: firstname
+#, no-c-format
+msgid "Raoul"
+msgstr ""
+
+#. Tag: surname
+#, no-c-format
+msgid "Scarazzini"
+msgstr ""
+
+#. Tag: member
+#, no-c-format
+msgid "Italian translation"
+msgstr ""
+
+#. Tag: member
+#, no-c-format
+msgid "Updated for Fedora 13"
+msgstr ""
+
+#. Tag: member
+#, no-c-format
+msgid "Update the GFS2 section to use CMAN"
+msgstr ""
+
+#. Tag: member
+#, no-c-format
+msgid "Generate docbook content from asciidoc sources"
 msgstr ""
 
